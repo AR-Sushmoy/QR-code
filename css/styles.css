@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color: #d5e1ef;
+  font-family: 'outfit', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+p {
+  font-size: 15px;
+  width: 85%;
+  margin: auto;
+  color: #bbb8be;
+}
+
+.main {
+  background-color: #ffffff;
+  width: 17%;
+  margin: 200px auto 0 auto;
+  padding: 20px 8px;
+  border-radius: 15px;
+  box-shadow: 6px 9px 45px #bbb8be;
+}
+
+.sub {
+  padding: 15px;
+}
+
+.img {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
